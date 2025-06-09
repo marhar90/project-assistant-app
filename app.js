@@ -1,0 +1,1 @@
+// see final integrated ChatApp component with Gmail login, chat, and upload support
